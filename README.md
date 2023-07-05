@@ -1,6 +1,7 @@
 # Vulkan GameOfLife
+![ezgif com-video-to-gif](https://github.com/Jeremy-Perras/GameOfLife/assets/89851173/54dba824-e8e1-4a26-99c5-5c15260e2d9b)
 
-https://github.com/Jeremy-Perras/GameOfLife/assets/89851173/51d54b61-7199-419a-9819-8c36628ac127
+
 Using 240 000 vertices
 # Need to handle : 
 CPU profiler 90% on GameOfLife function
