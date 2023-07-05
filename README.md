@@ -1,5 +1,6 @@
 # Vulkan GameOfLife
-![ezgif com-video-to-gif](https://github.com/Jeremy-Perras/GameOfLife/assets/89851173/54dba824-e8e1-4a26-99c5-5c15260e2d9b)
+![ezgif com-gif-maker](https://github.com/Jeremy-Perras/GameOfLife/assets/89851173/6fbd6115-c992-467b-94ac-f7747a027f53)
+
 
 
 Using 240 000 vertices
